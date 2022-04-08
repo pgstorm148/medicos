@@ -1,0 +1,14 @@
+.App{
+    font-family: 'Poppins', sans-serif;
+}
+.custom-color{
+    color: #4285f4;
+}
+.custom-btn {
+    background-color: #4285F4;
+    border: none;
+    color: #fff;
+    padding: 7px 25px;
+    border-radius: 20px;
+    box-shadow: 0px 0px 12px -5px #000;
+}
